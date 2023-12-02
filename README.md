@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# Credit Card Fraud Detection using Random Forest Classifier
 
 This project aims to detect fraudulent credit card transactions using a random forest classifier. The dataset used for this project is from [Kaggle], which contains transactions made by credit cards in September 2013 by European cardholders. The dataset is highly imbalanced, as only 0.172% of transactions are fraudulent.
 
